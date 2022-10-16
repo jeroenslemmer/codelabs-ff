@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745538498337",
+    "project_id": "code-lab-ff-be842",
+    "storage_bucket": "code-lab-ff-be842.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745538498337:android:775bece62147d3fa4a5860",
+        "android_client_info": {
+          "package_name": "com.code_lab.ff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745538498337-97qgjj1n2o6mique8qtlc6dlli0ab23f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKVEezVQwytyj8nh9o9z0VWoBR6tygNl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745538498337-97qgjj1n2o6mique8qtlc6dlli0ab23f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
